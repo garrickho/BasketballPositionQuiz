@@ -11,11 +11,11 @@ In this quiz, you will:
 
 In-Program Classes:
 
-1. Inputting User Information:
-  - The purpose of this class is to gather the user's information. The entered information will help in determining the     results for the user
+1. Person
+  - This class is the parent class of the User and Admin classes. The Person class will read and write the user_info csv and will read the admins csv
 
-2. Quiz Questions:
-  - About 4-5 questions that will help with the results. 
+2. User
+  - This class will gather the user's information and ask different questions to determine the result
 
-3. Admin Login:
-  - If someone has an authorized login, they can select the option to log in and access the information entered and the results. 
+3. Admin
+  - This class will allow for admins to login and view or remove user infomation
