@@ -18,4 +18,4 @@ In-Program Classes:
   - This class will gather the user's information and ask different questions to determine the result
 
 3. Admin
-  - This class will allow for admins to login and view or remove user infomation
+  - This class will allow for admins to login and view or remove user infomation, if there's valid login information
